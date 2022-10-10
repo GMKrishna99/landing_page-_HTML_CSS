@@ -313,6 +313,7 @@ button:hover{
     padding-right: 30px;
     font-size: 32px;
     color: #749F82;
+    cursor: pointer;
 }
 hr.footer{
     border-top: 2px dashed #425F57;
