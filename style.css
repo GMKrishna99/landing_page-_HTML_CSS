@@ -112,11 +112,9 @@ button:hover{
 .section-1-card{
     width: 400px;
     border: 2px solid #425F57;
-    border-radius: 20px;
 }
 .section-1-card img{
     width: 100%;
-    border-radius: 20px;
 }
 
 .section-1-cards h3{
@@ -175,9 +173,12 @@ button:hover{
     width: 1000px;
     display: flex;
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 20px;
 }
 .section-3-items{
+    border: 2px solid #425F57;
+    padding: 7px;
+    border-radius: 10px;
     margin-top: 50px;
     width: 300px;
     display: flex;
