@@ -315,6 +315,9 @@ button:hover{
     color: #749F82;
     cursor: pointer;
 }
+.social-media-items,.b:hover{
+    color: #425F57;
+}
 hr.footer{
     border-top: 2px dashed #425F57;
 }
