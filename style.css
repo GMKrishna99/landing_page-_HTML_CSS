@@ -100,8 +100,8 @@ button:hover{
     text-align: center;
 }
 .section-1-content p{
-    color: #425F57;
-    font-size: 18px;
+    color: #425f57de;
+    font-size: 16px;
     text-align: center;
 }
 .section-1-cards{
@@ -110,13 +110,14 @@ button:hover{
     justify-content: space-evenly;
 }
 .section-1-card{
-    width: 400px;
+    width: 300px;
     border: 2px solid #425F57;
-    border-radius: 20px;
+    border-radius: 5px;
+    padding: 5px;
 }
 .section-1-card img{
     width: 100%;
-    border-radius: 20px;
+    border-radius: 5px;
 }
 
 .section-1-cards h3{
@@ -125,8 +126,9 @@ button:hover{
     color:#425F57;
 }
 .section-1-cards p{
-    text-align: center;
-    color: #425F57;
+    text-align: left;
+    color: #425f57de;
+    font-size: 16px;
 }
 /* Section 2 */
 .section-2{
@@ -147,7 +149,8 @@ button:hover{
 }
 .section-2-header p{
     font-size: 18px;
-    color: white;
+    color: rgba(255, 255, 255, 0.689);
+    text-align: justify;
 }
 .section-2-header button{
     width: 150px;
@@ -227,7 +230,7 @@ button:hover{
 }
 .section-4-content p{
     margin-top: 10px;
-    color: white;
+    color: rgba(255, 255, 255, 0.636);
     font-size: 16px;
     font-weight: 300;
 }
@@ -269,9 +272,11 @@ button:hover{
 .section-5-container input{
     margin-top: 10px;
     width: 300px;
-    padding: 6px;
-    border-radius: 10px;
-    border: 2px solid #425F57;
+    padding: 5PX;
+    border-radius: 5px;
+    border: 1px solid #425F57;
+    text-align: left;
+    font-size: 16px;
 
 }
 .section-5-container button{
